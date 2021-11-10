@@ -69,4 +69,7 @@
   .section-title {
     font-size: 10px;
   }
+  .accordion-body {
+    height: 30%;
+  }
 }
