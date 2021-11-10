@@ -48,3 +48,16 @@
 .accordion-button.collapsed {
   font-weight: bold !important;
 }
+@media screen and (max-width: 1400px) {
+  .right {
+    right: 57px;
+  }
+}
+@media screen and (max-width: 568px) {
+  .section-bg-1::after {
+    width: 30%;
+  }
+  html {
+    font-size: 45%;
+  }
+}
