@@ -55,9 +55,10 @@
 }
 @media screen and (max-width: 768px) {
   .accordion-body {
-    padding: 0.5rem;
+    height: 50%;
   }
 }
+
 @media screen and (max-width: 498px) {
   .section-bg-1::after {
     width: 30%;
